@@ -23,6 +23,6 @@ Diagnose Specific Language Impairment in Children : https://www.kaggle.com/dgoke
 -- *Resampling techniques for imbalanced data (techniques de ré-échantillonnage pour données déséquilibrées).*<br/>
 -- *Data preparation - données équilibrées.*<br/>
 -- *Algorithmes d'apprentissage supervisé (pour résoudre un problème de classification).*<br/>
-- POINT D'ENTREE D'UNE API POUR LE TEST : **github_3_prediction_decoupage_cross_validation.ipynb**.
+- NOTEBOOK DE PREDICTION AVEC UN DECOUPAGE CROSS VALIDATE : **github_3_prediction_decoupage_cross_validation.ipynb**.
 -- *Data preparation.*<br/>
 -- *Algorithmes d'apprentissage supervisé (pour résoudre un problème de classification).*<br/>
